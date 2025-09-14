@@ -1,0 +1,1 @@
+Each vault works with one token
