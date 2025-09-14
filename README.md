@@ -52,5 +52,5 @@ This portfolio is meant to show:
 
 - **Cantina profile:** https://cantina.xyz/u/wylis
 - **Immunefi profile:** https://immunefi.com/profile/wylis/
-- **GitHub:** https://github.com/wylis-hodor
-- **Twitter:** x.com/WylisHodorStark
+- **GitHub:** https://github.com/wylis-hodor/web3-security-research
+- **Twitter:** https://x.com/WylisHodorStark
