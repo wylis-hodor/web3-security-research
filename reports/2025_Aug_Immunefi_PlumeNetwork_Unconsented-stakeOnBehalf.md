@@ -1,7 +1,6 @@
 # Title
 
 Unconsented `stakeOnBehalf` enables **unbounded gas consumption** via `userValidators[]` growth, causing DoS at scale in `claimAll()` / `withdraw()`
-Submitted about 1 month ago by @wylis (Whitehat) for Attackathon | Plume Network
 
 # Target
 

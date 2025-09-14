@@ -1,7 +1,6 @@
 # Title
 
 Approved ERC-721 operator can claim and redirect withdrawal proceeds — direct theft of user funds (WithdrawalQueueManager)
-Submitted 21 days ago by @wylis (Whitehat) for YieldNest
 
 # Target
 
