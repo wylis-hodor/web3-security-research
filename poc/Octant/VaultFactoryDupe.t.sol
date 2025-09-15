@@ -172,5 +172,9 @@ contract FactoryDupe is Test {
         string memory aSymB = IERC20Metadata(evAssets[1]).symbol();
         assertEq(aNameA, aNameB, "asset names differ");
         assertEq(aSymA, aSymB, "asset symbols differ");
+
+        // But different contract addresses (the crux: two indistinguishable-looking vaults at different addrs)
+        assertTrue(evVaults[0] != evVaults[1], "vault addresses unexpectedly equal");
+        assertTrue(evAssets[0] != evAssets[1], "asset addresses unexpectedly equal");
     }
 }
