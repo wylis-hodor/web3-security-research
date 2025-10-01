@@ -30,7 +30,7 @@ web3-security-research/
 
 - **Coursework & Exercises**  
   Selected exercises from Cyfrin Updraft and other training programs.  
-  Includes both guided and independent discoveries.
+  Includes both guided and independent discoveries.  
   Go For C++ Devs
 
 - **Methodology**  
