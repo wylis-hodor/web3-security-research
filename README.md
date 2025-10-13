@@ -24,13 +24,12 @@ web3-security-research/
   Vulnerabilities reported and accepted on platforms such as Immunefi.  
   Includes PoCs, traces, and root cause analysis.  
 
-- **Active Cantina Participation**  
-  Currently participating in Cantina audit (Sept 2025, Octant).  
-  Findings and sanitized writeups will be added here once confirmed.  
+- **Active Cantina and Immunefi Participation**  
+  Findings and sanitized writeups added here as confirmed.  
 
 - **Coursework & Exercises**  
-  Selected exercises from Cyfrin Updraft and other training programs.  
-  Includes both guided and independent discoveries.  
+  Selected exercises from Cyfrin Updraft solidity training programs.  
+      - Includes both guided and independent discoveries.  
   Go For C++ Devs
 
 - **Methodology**  
@@ -46,6 +45,8 @@ This portfolio is meant to show:
 - **Technical depth** — I build working PoCs and Foundry tests for every finding.  
 - **Breadth of coverage** — From staking logic and accounting drift to ERC20 approvals and dust handling.  
 - **Consistency** — A systematic approach that can scale across protocols.  
+
+Also note I have deep development abilities in C/C++, as well as python and javascript testing ability.
 
 ---
 
